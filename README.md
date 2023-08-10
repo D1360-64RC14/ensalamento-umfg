@@ -1,5 +1,7 @@
 # ensalamento-umfg
 
+Pequena ferramenta de data-crawling criada para determinar o sexo dos participantes do vestibular da faculdade UMFG com ajuda da API do IBGE.
+
 ## Atribuição dos Sexos
 
 A API do IBGE disponibiliza a quantidade de pessoas em que seu sexo foi atribuído a algum nome específico.
