@@ -14,11 +14,11 @@ o nome "Maria" tem maior quantidade de registros no sexo feminino, então esse s
 
 | Curso | Candidatos Totais | do Sexo Feminino | do Sexo Masculino |
 |-------|:-----------------:|:----------------:|:-----------------:|
-| Análise e Desenvolvimento de Sistemas | 88 | 13 | 75 |
-| Psicologia | 50 | 42 | 8 |
-| Engenharia Civil | 19 | 7 | 12 |
-| Agronomia | 48 | 17 | 31 |
 | Administração | 31 | 15 | 16 |
-| Moda | 12 | 10 | 2 |
+| Agronomia | 48 | 17 | 31 |
+| Análise e Desenvolvimento de Sistemas | 88 | 13 | 75 |
 | Ciências Contábeis | 17 | 11 | 6 |
+| Engenharia Civil | 19 | 7 | 12 |
 | Fisioterapia | 31 | 21 | 10 |
+| Moda | 12 | 10 | 2 |
+| Psicologia | 50 | 42 | 8 |
